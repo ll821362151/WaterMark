@@ -50,3 +50,6 @@ python脚本打包指令
     pyinstaller --onefile -w --add-data "F:\ffmpeg-master-latest-win64-gpl-shared;ffmpeg" --noconsole -i logo.ico watermark_gui.py
 
 --------------------------------------------------------------------------------------
+
+我用夸克网盘分享了「批量加水印.exe」，点击链接即可保存。打开「夸克APP」，无需下载在线播放视频，畅享原画5倍速，支持电视投屏。
+链接：https://pan.quark.cn/s/ff0c9198021a
