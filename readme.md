@@ -60,6 +60,6 @@ python脚本打包指令
 
     #将icon和ffmpeg打包   
     pyinstaller --onefile -w  --add-data "F:\ffmpeg-master-latest-win64-gpl-shared;ffmpeg"  --add-data "logo.ico;." --noconsole -i logo.ico watermark_gui.py
-    pyinstaller --onefile -w  --add-data "F:\ffmpeg-master-latest-win64-gpl-shared;ffmpeg"  --add-data "kdthe.ico;." --noconsole -i kdthe.ico kdthe.py
+
 
 --------------------------------------------------------------------------------------
